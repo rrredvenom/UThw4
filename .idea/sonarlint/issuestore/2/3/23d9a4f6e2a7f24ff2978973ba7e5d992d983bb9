@@ -1,0 +1,25 @@
+
+a
+java:S1192b"KDefine a constant instead of duplicating this literal "category: " 3 times.(§®ÝÍ
+V	java:S125"<This block of commented-out lines of code should be removed.(óôÓ³ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.( ¥Œ
+P	java:S125"<This block of commented-out lines of code should be removed.(€þðt
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÞÆÉð
+V	java:S125"<This block of commented-out lines of code should be removed.(ØÖÞýÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(äÀ¼üÿÿÿÿ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(®Ùš·
+V	java:S125,"<This block of commented-out lines of code should be removed.(®»Ìùÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ÚÇ£îþÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(Ùƒ§àüÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(Å¡±”ûÿÿÿÿ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(§®ÝÍ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(ÇÂ­ýÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(Æ¾Åƒûÿÿÿÿ
+Q	java:S125o"<This block of commented-out lines of code should be removed.(“Çú¡
+Q
+java:S1854†":Remove this useless assignment to local variable "emmett".(ÀÑþæ
+B
+java:S1481†"+Remove this unused "emmett" local variable.(ÀÑþæ
+R	java:S125"<This block of commented-out lines of code should be removed.(åÇñ
+F
+java:S5960r"+Remove this assertion from production code.(í³õÊÿÿÿÿÿ

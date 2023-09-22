@@ -1,0 +1,12 @@
+
+x
+java:S1192"]Define a constant instead of duplicating this literal "ĞÑˆĞ¸Ğ±ĞºĞ° Ğ² Ğ¼ĞµÑ‚Ğ¾Ğ´Ğµ" 4 times.(÷Œ’–úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌìÙÜ
+V	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(ï÷ÎG
+Q	java:S125+"<This block of commented-out lines of code should be removed.(ïóíì
+Q	java:S1253"<This block of commented-out lines of code should be removed.(­ÜœÄ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¬Ó„ßûÿÿÿÿ
+Q	java:S125>"<This block of commented-out lines of code should be removed.(Ä½Ê
+Q	java:S125C"<This block of commented-out lines of code should be removed.(á­Š
+Q	java:S125G"<This block of commented-out lines of code should be removed.(ÔÄ™¤
